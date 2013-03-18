@@ -3,36 +3,35 @@
 	
 <head>
 
-<title>Sam Orlik - Homework 2</title>
-<link href="mystyle.css" rel="stylesheet" type="text/css">
+<title>Sam Orlik - Homework 3</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 
 </head>
 
 <body>
-<div align="center">
+
 <header>
-<p><h1>Orlik, Sam Homework 2</h1></p>
+<h1>Orlik, Sam Homework 3</h1>
 </header>
 
 <nav>
-<hr style="height:5px;color: #4169E1; background-color: #4169E1"/>
-<a href="default.html">Home</a>
+<hr />
+<a href="index.html">Home</a>
+<span class="address">
 <a href="webformdemo.html">Web Form Demo</a>
-<a href="index.html">About Me</a>
-<hr style="height:5px;color: #4169E1; background-color: #4169E1"/>
-</div>
-	</nav>
-<br />
-<div align="center">
-<h1>Welcome to my Web Form!</h1>
-<br />
-<h2>This is the demo form for hotel room reservation!</h2>
-</div>
-<table align="center">
+</span>
+<span class="address">
+<a href="aboutme.html">About Me</a>
+</span>
+<hr />
+</nav>
+
+<h2>Welcome to my Web Form!</h2>
+<h3>This is the demo form for hotel room reservation!</h3>
+
 <tr>
 <td>
 
-<p>
 <form>
 <fieldset>
     <legend>Customer Information</legend>
@@ -48,7 +47,6 @@
 	<input type="text", id="Phone Number", name="Phone Number:" size="20",
 	maxlength="30" value="" />
 	</fieldset>
-	<br />
 	<fieldset>
 	<legend>Room Information</legend>
 	
@@ -69,7 +67,6 @@ Number of Nights (1-30): <input type="number" id="RoomInf" name="Number of Night
 Number of Guests (0-3): <input type="number" id="RoomInf" name="Number of Guests" min="0" max="3" required />
 	<br />
 	</fieldset>
-	<br />
 	<fieldset>
 <legend>Other Information</legend>
 PromoCode<input type="text" id="OtherInf" name="PromoCode" value="" pattern="[A-Za-z0-9]{3}"/> 
@@ -83,15 +80,15 @@ Enter your Special Notes here</textarea>
 </td>
 </tr>
 </table>
-
+<br />
 	<footer>
-	<p>
-	<div align="center">
-	Contact Information
-	<br />
-	<a href="mailto:sdorlik@comcast.net">E-Mail: Sdorlik@comcast.net</a>
-	<br />
-	Phone: (562) 123-4567
-	</div>
+	<span class="copyright">Sam Orlik</span> Contact Information
+	<address>
+	<a href="mailto:sdorlik@comcast.net">
+	
+	E-Mail: Sdorlik@comcast.net</a><span class="address"> Phone: (562) 123-4567
+	</span>
+	</address>
 	</footer>
-</body>
+	</body>
+</html>
