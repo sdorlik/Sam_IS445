@@ -1,0 +1,5 @@
+c:\users\sam\documents\visual studio 2012\Projects\IS 445 - HW 6\IS 445 - HW 6\bin\IS 445 - HW 6.dll
+c:\users\sam\documents\visual studio 2012\Projects\IS 445 - HW 6\IS 445 - HW 6\bin\IS 445 - HW 6.pdb
+c:\users\sam\documents\visual studio 2012\Projects\IS 445 - HW 6\IS 445 - HW 6\obj\Debug\IS 445 - HW 6.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2012\Projects\IS 445 - HW 6\IS 445 - HW 6\obj\Debug\IS 445 - HW 6.dll
+c:\users\sam\documents\visual studio 2012\Projects\IS 445 - HW 6\IS 445 - HW 6\obj\Debug\IS 445 - HW 6.pdb
