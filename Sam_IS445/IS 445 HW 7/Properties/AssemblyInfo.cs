@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("IS_445___HW_6")]
+[assembly: AssemblyTitle("IS_445_HW_7")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Toshiba")]
-[assembly: AssemblyProduct("IS_445___HW_6")]
+[assembly: AssemblyProduct("IS_445_HW_7")]
 [assembly: AssemblyCopyright("Copyright © Toshiba 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("49df6114-5293-4284-bb4b-efa655b3e537")]
+[assembly: Guid("a4e2b902-3744-4830-adcf-daae3dc585ca")]
 
 // Version information for an assembly consists of the following four values:
 //

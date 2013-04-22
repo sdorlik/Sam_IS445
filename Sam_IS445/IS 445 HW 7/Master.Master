@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="IS_445_HW_7.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="styles.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        <h1>Orlik, Sam - Homework 7</h1>
+<nav>
+<hr />
+<a href="index.aspx">Home</a>
+<span class="address">
+<a href="form.aspx">Web Form Demo</a>
+</span>
+<span class="address">
+<a href="about.aspx">About Me</a>
+</span>
+<hr />
+</nav>
+</asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
