@@ -16,7 +16,7 @@ namespace WebSiteProject
 
         protected void CalculateButton_Click(object sender, EventArgs e)
         {
-            int number, i;
+            int number;
             string display;
             
             OutputLabel.Visible = false;
@@ -29,11 +29,16 @@ namespace WebSiteProject
             }
             else
             {
-                string[] Star = new string[] { "**********","*********","********","*******","******","*****","****","***","**","*"};
-                for (i = (number - 10) * -1; i <= 9; i++)
+                string[] Star = new string[] { "*", "**", "***", "****", "*****", "******", "*******", "********", "*********"};
+                int i;
+                i = number;
+
+                while (i >= 1)
                 {
-                    display = "<br />"+ (Star[i]);
-                    this.OutputLabel.Text = display;
+                    display ="<h3 class = number>"+"<br />" + Star[i-1]+"</h3>";
+                    i = i - 1;
+                    this.OutputLabel.Text += display;
+                    OutputLabel.Visible = true;
                 }
             }
         }
