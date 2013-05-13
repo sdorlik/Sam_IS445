@@ -1,0 +1,7 @@
+c:\users\sam\documents\visual studio 2012\Projects\WebSiteProject\WebSiteProject\bin\WebSiteProject.dll
+c:\users\sam\documents\visual studio 2012\Projects\WebSiteProject\WebSiteProject\bin\WebSiteProject.pdb
+c:\users\sam\documents\visual studio 2012\Projects\WebSiteProject\WebSiteProject\obj\Debug\WebSiteProject.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2012\Projects\WebSiteProject\WebSiteProject\obj\Debug\WebSiteProject.dll
+c:\users\sam\documents\visual studio 2012\Projects\WebSiteProject\WebSiteProject\obj\Debug\WebSiteProject.pdb
+C:\Users\Sam\documents\visual studio 2012\Projects\WebSiteProject\WebSiteProject\obj\Debug\WebSiteProject.Resource1.resources
+C:\Users\Sam\documents\visual studio 2012\Projects\WebSiteProject\WebSiteProject\obj\Debug\WebSiteProject.csproj.GenerateResource.Cache

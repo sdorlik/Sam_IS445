@@ -1,0 +1,95 @@
+﻿body {text-align:center;
+      margin-left:auto;
+      margin-right:auto;
+      width:900px;
+      height:900px;
+}
+
+div.Main {
+    width:600px;
+    
+    float:left;
+    padding: 20px 20px 20px 20px;
+}
+
+nav {text-align:center;
+     margin-left:auto;
+     margin-right:auto;
+     width:900px;
+     
+}
+
+ul.level1, ul.level3 {
+    background-color:gold;
+}
+
+ul.level2 {background-color:yellow;
+           color:gold;
+}
+
+a.level1:hover, a.level2:hover, a.level3:hover {
+    background-color:azure;
+}
+
+li {
+    padding-left:35px;
+    padding-right:35px;
+}
+
+
+
+#Menu1 {margin-left:auto;
+        margin-right:auto;
+        padding: 20px 20px 20px 20px;
+        
+}
+
+div.SideNav {
+           width:200px;
+           float:left;
+           padding: 20px 20px 20px 20px;
+}
+
+a:hover {text-decoration:underline;
+color:#FF0000;
+}
+
+dt {color:red;
+}
+
+img.contact {
+     width:200px;
+     position:absolute;
+     right:120px;
+}
+
+footer.contact {padding-top:5px;
+border-top-style:double;}
+
+address.contact {display:inline;
+padding-left:20px;}
+
+body.contact {
+    width: 600px;
+    text-align:center;
+}
+
+h2.contact {
+    color: blue;
+}
+
+h3.contact {
+    color: purple;
+}
+
+p.nested {
+    color:green;
+}
+
+h3.nested {
+    color:red;
+}
+
+h3.number {
+    color:green;
+}

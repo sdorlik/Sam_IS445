@@ -1,5 +1,0 @@
-c:\users\sam\documents\visual studio 2012\Projects\IS 445 HW 7\IS 445 HW 7\bin\IS 445 HW 7.dll
-c:\users\sam\documents\visual studio 2012\Projects\IS 445 HW 7\IS 445 HW 7\bin\IS 445 HW 7.pdb
-c:\users\sam\documents\visual studio 2012\Projects\IS 445 HW 7\IS 445 HW 7\obj\Debug\IS 445 HW 7.csprojResolveAssemblyReference.cache
-c:\users\sam\documents\visual studio 2012\Projects\IS 445 HW 7\IS 445 HW 7\obj\Debug\IS 445 HW 7.dll
-c:\users\sam\documents\visual studio 2012\Projects\IS 445 HW 7\IS 445 HW 7\obj\Debug\IS 445 HW 7.pdb
