@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="About\Me.aspx" />
     <Content Include="Demos\ClientSide\NestedLoop.aspx" />
     <Content Include="Demos\ClientSide\NumberDivision.aspx" />
     <Content Include="About\Contact.aspx" />
@@ -79,6 +80,13 @@
     <Content Include="Demos\WebForm.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="About\Me.aspx.cs">
+      <DependentUpon>Me.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About\Me.aspx.designer.cs">
+      <DependentUpon>Me.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Demos\Layout\AbsoluteLayout.aspx.cs">
       <DependentUpon>AbsoluteLayout.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
