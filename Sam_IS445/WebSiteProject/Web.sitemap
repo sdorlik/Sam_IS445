@@ -21,6 +21,7 @@
     <siteMapNode url="~/About/About/Default.aspx" title="About Myself" description="My Cover Letter">
       <siteMapNode url="~/About/Resume.aspx" title="My Resume" description="My Detail Resume" />
       <siteMapNode url="~/About/Contact.aspx" title="Contact Me" description="My Contact Information" />
+      <siteMapNode url="~/About/Me.aspx" title="Me" description="A page about me" />
     </siteMapNode>
   </siteMapNode>
 </siteMap>
